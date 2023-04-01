@@ -13,11 +13,8 @@ Once there you can open the ChromeDev Tools by right clicking on the page and se
 
 You can see the accesibility rating in the screenshot below while in ChromeDev Tools.  
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/Accesibility Screenshot.png)
-    ```
+    ![Look Here](assets/images/Accesibility Screenshot.png)
+    
 ## License
 
 No license
