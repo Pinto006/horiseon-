@@ -6,7 +6,7 @@
 
 ## Installation
 
-To visit the site use link, 
+To visit the site use link, https://pinto006.github.io/horiseon-/
 Once there you can open the ChromeDev Tools by right clicking on the page and selecting "inspect" to see the the HTML and CSS layouts.  
 
 ## Usage
