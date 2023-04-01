@@ -12,8 +12,7 @@ Once there you can open the ChromeDev Tools by right clicking on the page and se
 ## Usage
 
 You can see the accesibility rating in the screenshot below while in ChromeDev Tools.  
-
-    ![Look Here](assets/images/Accesibility Screenshot.png)
+<img src="./assets/images/Accesibility-Screenshot.png" alt="Look Here" />
     
 ## License
 
