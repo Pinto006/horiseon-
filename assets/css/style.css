@@ -1,5 +1,5 @@
 
-/* universal styling */
+/* Universal styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -44,16 +44,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
-/* Styling Hero section */
+/* Class Styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -79,6 +70,15 @@ p {
     margin-left: 20px;
 }
 
+/* Element Styling */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
 .benefits {
     padding: 20px;
     clear: both;
@@ -89,17 +89,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-topics {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-topics h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+.benefit-topics img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -124,6 +124,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer Styling */
 .footer {
     padding: 30px;
     clear: both;
