@@ -86,12 +86,13 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0a6b9f;
 }
 
 .benefit-topics {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #FDFEFE;
+    font-weight: bold;
 }
 
 .benefit-topics h3 {
